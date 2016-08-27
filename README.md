@@ -1,35 +1,6 @@
 PB162 Seminar project
 =====================
 
-dsdsad
-
-This project is a set of subsequent assignments used to demonstrate and practice the main aspects of Java and Object Oriented Programming in semianr groups of PB162 course at Faculty of Informatics, Masaryk University .
-
-
-Downloading the assignment
-==========================
-
-The assignment is distributed in form of a git repository hosted on [gitlab.com](https://gitlab.com). For more information about this version control system have a look at [The Git Book](https://git-scm.com/book/en/v2).
-
-## Checking out the assignment
-
-First you need to create a local clone of this repository using these commands
-
-```bash
-$ git clone https://gitlab.com/munijava/pb162-seminar-project.git pb162-seminar-project
-$ cd pb162-seminar-project
-```
-
-From now on, you will work in this local copy. The following command can be used to display the current status of your new repository.
-```bash
-$ git status
-On branch master
-nothing to commit, working directory clean
-```
-Notice that that currently active branch is **master**, this is the branch you want to work in.
-
-## Updating to next iteration
-At the beginning of each class you will need to *pull* the assignment for next iteration into your master branch. The following command demonstrates the upgrade to iteration 01.
 
 ```bash
 $ git pull origin iteration-01
